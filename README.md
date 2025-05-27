@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Hi, I'm Akshat — aka PixelToPower
 
-<!--
-**PixelToPower/PixelToPower** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm on a bold journey to rise into the **top 0.001%** of creators and coders — one line at a time.
 
-Here are some ideas to get you started:
+This profile tracks my progress through the **Titan Path Plan**, my personal system of growth in:
+- 🧠 AI & Python
+- 🛠️ Real-world tools and projects
+- 🚀 Consistency and public accountability
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🔁 What I'm Doing Now
+- 📘 Learning Python and AI daily
+- 🧪 Sharing experiments and projects in public
+- 🧱 Building a foundation for long-term mastery
+
+---
+
+### 🛠️ My Repositories
+- **titan-path-log** – daily/weekly logs of progress
+- **python-core-projects** – real Python tools I build
+- **ai-learning-lab** – where I experiment with AI/ML
+
+---
+
+### 🌐 Follow My Journey
+- Twitter: [@PixelToPower](https://twitter.com/PixelToPower)
+- Hashtag: `#TitanPath`
+
+From pixels to power. From clarity to code.  
+Let’s build the future, brick by brick. 🧱
