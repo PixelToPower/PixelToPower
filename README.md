@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="github-banner.png" alt="PixelToPower Banner" width="100%" />
+  <img src="pixel-banner.jpg.png" alt="PixelToPower Banner" width="100%" />
 </p>
+
 
 # 👋 Hi, I'm Akshat — aka PixelToPower
 
