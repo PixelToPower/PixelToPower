@@ -1,6 +1,10 @@
 <p align="center">
   <img src="github-banner.png" alt="PixelToPower Banner" width="100%" />
 </p>
+<p align="center">
+  <img src="banner.png" alt="PixelToPower Banner" width="100%" />
+</p>
+
 # 👋 Hi, I'm Akshat — aka PixelToPower
 
 I'm on a bold journey to rise into the **top 0.001%** of creators and coders — one line at a time.
