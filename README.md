@@ -31,6 +31,6 @@ This profile tracks my progress through the **Titan Path Plan**, my personal sys
 ### 🌐 Follow My Journey
 - Twitter: [@PixelToPower](https://twitter.com/PixelToPower)
 - Hashtag: `#TitanPath`
-
+- ## 🔗 Featured Project--> https://replit.com/@akshatpanchal00/AI-Portfolio-Project-Titan-Path?v=1
 From pixels to power. From clarity to code.  
 Let’s build the future, brick by brick. 🧱
