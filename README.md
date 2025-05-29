@@ -28,8 +28,7 @@ This profile tracks my progress through the **Titan Path Plan**, my personal sys
 
 ---
 
-### 🌐 Follow My Journey
-- Twitter: [@PixelToPower](https://twitter.com/PixelToPower)
+### 🌐 Follow My Journey on :
 - 🐦 [X (Twitter)](https://x.com/PixelToPower)
 - 📝 [Hashnode Blog](https://pixeltopower.hashnode.dev)
 - 💼 [LinkedIn](https://www.linkedin.com/in/pixeltopower)
