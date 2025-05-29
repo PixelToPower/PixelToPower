@@ -31,7 +31,7 @@ This profile tracks my progress through the **Titan Path Plan**, my personal sys
 ### 🌐 Follow My Journey on :
 - 🐦 [X (Twitter)](https://x.com/PixelToPower)
 - 📝 [Hashnode Blog](https://pixeltopower.hashnode.dev)
-- 💼 [LinkedIn](https://www.linkedin.com/in/pixeltopower)
+- 💼 [linkedin](https://www.linkedin.com/in/akshat-panchal-455219368/)
 - 👨‍💻 [Dev.to](https://dev.to/pixeltopower)
 - 🧪 [Replit](https://replit.com/@akshatpanchal00)
 - 🚀 [Live Project: AI Portfolio](https://replit.com/@akshatpanchal00/AI-Portfolio-Project-Titan-Path)
