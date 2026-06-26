@@ -3,7 +3,7 @@
 </p>
 
 
-# 👋 Hi, I'm Akshat — aka PixelToPower
+# 👋 Hi, I'm Akshat — PixelToPower
 
 I'm on a bold journey to rise into the **top 0.001%** of creators and coders — one line at a time.
 
